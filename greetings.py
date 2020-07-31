@@ -1,0 +1,2 @@
+print("a simple message
+      ")
